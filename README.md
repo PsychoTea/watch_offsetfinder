@@ -1,6 +1,6 @@
 ## watch_offsetfinder
 
-A modified version of tihmstar's [offsetfinder](https://github.com/timstar/offsetfinder) for find v0rtex Apple  Watch offsets.
+A modified version of tihmstar's [offsetfinder](https://github.com/timstar/offsetfinder) for finding v0rtex Apple  Watch offsets.
 
 ```Usage: offsetfinder <path to kernelcache>```
 
